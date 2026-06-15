@@ -2,8 +2,10 @@
 ## An Ensemble GNN Approach Against Adversarial Attacks
 
 This repository contains the implementation and experimental notebooks for the paper:
+
 **"An Optimized Graph Neural Network Approach for Robust and Explainable IoT Intrusion Detection Against Adversarial Attacks"**
 Published in Scientific Reports (Nature Portfolio).
+
 📄 Paper Link: https://www.nature.com/articles/s41598-026-48715-9
 ---------------------------------------------------------------------
 ## 1. Project Overview
@@ -92,11 +94,17 @@ pip install -r requirements.txt
 This repository is provided for academic and research purposes.
 ---------------------------------------------------------------------
 ## 9. Citation
+If you use this repository in your research, please cite:
+
+```bibtex
 @article{mohammad2026optimized,
-  title={An optimized graph neural network approach for robust and explainable IoT intrusion detection against adversarial attacks},
+  title={An Optimized Graph Neural Network Approach for Robust and Explainable IoT Intrusion Detection Against Adversarial Attacks},
   author={Mohammad, Uzma Ghulam and Afzal, Adil and Alghamdi, Saleh and Amjad, Anila and Yonbawi, Saud and Rizwan, Muhammad and Bagdasar, Ovidiu and Manuella, Kadar},
   journal={Scientific Reports},
   year={2026},
-  publisher={Nature Publishing Group UK London}
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41598-026-48715-9},
+  url={https://www.nature.com/articles/s41598-026-48715-9}
 }
+```
 ---------------------------------------------------------------------
